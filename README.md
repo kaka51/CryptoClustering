@@ -7,3 +7,6 @@ Purpose: use unsupervised learning to predict if cryptocurrenices are affected b
 5. Find the best k value using the PCA data<br>
 6. Cluster the Cryptocurrencies with K-means by using the PCA Data<br>
 7. Compare K-means and PCA plots<br>
+
+Support <br>
+* Instructor, In Class Activity, Learning Assistant, and stackoverflow: https://stackoverflow.com/questions/59661074/holoviews-charts-sharing-axis-when-combined-and-outputted
