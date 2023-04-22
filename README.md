@@ -9,4 +9,4 @@ Purpose: use unsupervised learning to predict if cryptocurrenices are affected b
 7. Compare K-means and PCA plots<br>
 
 Support and Thank You to <br>
-* Instructor, In Class Activity, Learning Assistant, and stackoverflow: https://stackoverflow.com/questions/59661074/holoviews-charts-sharing-axis-when-combined-and-outputted
+* Instructors, TAs, Learning Assistants, and stackoverflow: https://stackoverflow.com/questions/59661074/holoviews-charts-sharing-axis-when-combined-and-outputted
